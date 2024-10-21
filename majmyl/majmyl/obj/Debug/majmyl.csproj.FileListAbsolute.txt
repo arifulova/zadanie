@@ -1,0 +1,15 @@
+C:\Users\Нурия\source\repos\majmyl\majmyl\bin\Debug\majmyl.exe.config
+C:\Users\Нурия\source\repos\majmyl\majmyl\bin\Debug\majmyl.exe
+C:\Users\Нурия\source\repos\majmyl\majmyl\bin\Debug\majmyl.pdb
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl.csproj.AssemblyReference.cache
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\MainWindow.g.cs
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\App.g.cs
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl_MarkupCompile.cache
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl_MarkupCompile.lref
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\MainWindow.baml
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl.g.resources
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl.Properties.Resources.resources
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl.csproj.GenerateResource.cache
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl.csproj.CoreCompileInputs.cache
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl.exe
+C:\Users\Нурия\source\repos\majmyl\majmyl\obj\Debug\majmyl.pdb
